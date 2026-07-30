@@ -4,7 +4,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-TARGET_URL = "https://event.jreast.co.jp/prd/?disp_number=40&orderby=2&pageno=1&name=%E9%81%8B%E8%BB%A2"
+TARGET_URL = "https://event.jreast.co.jp/prd/?category=01:03&category=01:07&category=01:20&category=01:21&category=01:23&category=01:24&category=01:26&category=01:31&category=01:34&category=01:35&category=01:36&category=01:37&category=01:38&category=01:39&disp_number=80&orderby=2"
 DATA_FILE = "known_events.json"
 
 LINE_TOKEN = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
@@ -112,8 +112,8 @@ def fetch_events():
     soup = BeautifulSoup(res.text, "html.parser")
     events = {}
 
-    # 詳細リンク（/detail/ または /activity/detail/ など）を持つaタグを抽出
-    for a in soup.find_all("a", href=re.compile(r"/detail/")):
+    # 詳細リンク（/activity/detail/ など）を持つaタグを抽出
+    for a in soup.find_all("a", href=re.compile(r"/activity/detail/")):
         title = a.get_text(strip=True)
         link = a["href"]
 

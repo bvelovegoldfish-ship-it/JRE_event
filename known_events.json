@@ -1,4 +1,5 @@
 {
+  "https://event.jreast.co.jp/activity/detail/a033/a033-049": "金目きっぷ（KINME　KIPPU）11月分 金目きっぷ（11月分）伊豆急オンラインショップ JRE MALL店",
   "https://event.jreast.co.jp/activity/detail/a011/a011-282": "盛岡新幹線車両ベース基地公開2026 盛岡新幹線車両ベース基地公開2026入場チケットJR東日本　盛岡事業本部",
   "https://event.jreast.co.jp/activity/detail/a012/a012-058": "『秋田駅フェスティバル2026』前売り入場券 『秋田駅フェスティバル2026』前売り入場券JR東日本　秋田事業本部",
   "https://event.jreast.co.jp/activity/detail/a018/a018-kiha20247-bansyuu2026": "真岡鐵道|キハ20 247乗車体験|~晩秋の夜の鼓動~昭和の真岡線 満喫の旅 下り普通列車 茂木行  841D真岡鐵道オンラインショップ JRE MALL店",
@@ -61,9 +62,7 @@
   "https://event.jreast.co.jp/activity/detail/a008/a008-005": "【完売】新木駅のホームで、発車ベルを鳴らそう。成田線125周年　特別企画　B.B.BASEで乗務員体験 ＠成田線新木駅JR東日本　千葉事業本部",
   "https://event.jreast.co.jp/activity/detail/a121/a121-yone2609simu": "20組限定【米沢おしょうしな駅まつり２０２６】現役運転士と一緒にトレインシミュレータ体験！ 20組限定【米沢おしょうしな駅まつり２０２６】現役運転士と一緒にトレインシミュレータ体験！＠米沢駅JR東日本　山形事業本部",
   "https://event.jreast.co.jp/activity/detail/a121/a121-ekihai2610yamaderaohdo": "【駅からハイキング】専属ガイドがご案内！紅葉彩る山寺探訪～王道コース～ 紅葉彩る山寺探訪～王道コース～＠山寺駅JR東日本　山形事業本部",
-  "https://event.jreast.co.jp/activity/detail/a033/a033-048": "金目きっぷ（KINME　KIPPU）10月分 金目きっぷ（10月分）伊豆急オンラインショップ JRE MALL店",
   "https://event.jreast.co.jp/activity/detail/a135/a135-shinjuku-20261004": "★完売御礼★JR新宿駅ナイトツアー2026　埼京線E233系車両を使用した仕事体験！〜深夜の新宿駅で鉄道を満喫できる体験イベントを開催します〜 新宿駅JR東日本　新宿事業本部",
-  "https://event.jreast.co.jp/activity/detail/a022/a022-lecture0001": "園内ガイドツアー 園内ガイドツアー碓氷峠鉄道文化むら",
   "https://event.jreast.co.jp/activity/detail/a008/a008-001": "【終了しました】【完売】SAKURA TRAIN SIMULATOR 2026 運転士体験コース ＠佐倉乗務ベースJR東日本　千葉事業本部",
   "https://event.jreast.co.jp/activity/detail/a008/a008-002": "【終了しました】【完売】SAKURA TRAIN SIMULATOR 2026 車掌体験コース ＠佐倉乗務ベースJR東日本　千葉事業本部",
   "https://event.jreast.co.jp/activity/detail/a008/a008-003": "【終了しました】【完売】SAKURA TRAIN SIMULATOR 2026 運転士・車掌体験コース ＠佐倉乗務ベースJR東日本　千葉事業本部",
@@ -72,6 +71,8 @@
   "https://event.jreast.co.jp/activity/detail/a009/a009-20250913": "【2026年】佐久平駅業務体験イベント @【2026年】佐久平駅業務体験イベントJR東日本　長野事業本部",
   "https://event.jreast.co.jp/activity/detail/a009/a009-260912": "【2026年9月19日（土）開催】いいやま駅まつり 鉄道古物販売「時間指定入場整理券」 時間指定入場整理券@飯山駅南口JR東日本　長野事業本部",
   "https://event.jreast.co.jp/activity/detail/a131/a131-003": "【終了しました】【完売】京葉線・武蔵野線209系撮影会 ＠京葉車両ベースJR東日本　京葉総武事業本部",
-  "https://event.jreast.co.jp/activity/detail/a009/a009-260926": "（JR＋イベント商品）【2026年9月26日（土）】「小海線甘光(かんこう)列車」スイーツ編 【小淵沢駅発→小諸駅着コース】JR東日本　長野事業本部",
-  "https://event.jreast.co.jp/activity/detail/a009/a009-20260919": "貴重な車両を運転できる！元クモヤ143-52運転体験 元クモヤ143-52運転体験@長野総合訓練センターJR東日本　長野事業本部"
+  "https://event.jreast.co.jp/activity/detail/a009/a009-20260919": "貴重な車両を運転できる！元クモヤ143-52運転体験 元クモヤ143-52運転体験@長野総合訓練センターJR東日本　長野事業本部",
+  "https://event.jreast.co.jp/activity/detail/a120/a120-002": "【販売終了】八戸線乗務基地乗りつぶしツアー  ～えっ？ここどこ？終着駅で寝過ごした～ 八戸線乗務基地乗りつぶしツアー  ～えっ？ここどこ？終着駅で寝過ごした～JR東日本　青森事業本部",
+  "https://event.jreast.co.jp/activity/detail/a122/a122-001": "「越乃 Shu＊Kura」で行く！大山酒巡り体験 「越乃 Shu＊Kura」で行く！大山酒巡り体験参加プランJR東日本　庄内事業本部",
+  "https://event.jreast.co.jp/activity/detail/a011/a011-278": "【イベント終了】「3つの鉄道まつり2026」同時開催　運転シミュレータ体験 「3つの鉄道まつり2026」同時開催　運転シミュレータ体験JR東日本　盛岡事業本部"
 }
